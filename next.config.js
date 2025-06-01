@@ -5,8 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/portfolio', // Replace with your repository name
-  assetPrefix: '/portfolio/', // Replace with your repository name
+  basePath: '/portfolio',
+  assetPrefix: '/portfolio/',
 }
 
 module.exports = nextConfig 
